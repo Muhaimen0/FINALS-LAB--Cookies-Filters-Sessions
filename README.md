@@ -1,1 +1,1 @@
- PHP Cookies, Sessions, Filters in your websites
+ PHP Cookies, Sessions, Filters in websites
